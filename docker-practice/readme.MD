@@ -38,6 +38,8 @@
 ## RUN VS CMD
 * RUN : execute the time of image building
 * ```bash multiple run instructions```
+```bash
+docker exec -it <cont-name or cont-id> bash
 * CMD : execute the time of container starting
 *     : single cmd instructions if we give multiple last one is consider
 *     : given command overridden
