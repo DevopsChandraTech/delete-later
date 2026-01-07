@@ -37,7 +37,7 @@
 *     -> given command overridden
 ## RUN VS CMD
 * RUN : execute the time of image building
-* ```multiple run instructions```
+* ```bash multiple run instructions```
 * CMD : execute the time of container starting
 *     : single cmd instructions if we give multiple last one is consider
 *     : given command overridden
